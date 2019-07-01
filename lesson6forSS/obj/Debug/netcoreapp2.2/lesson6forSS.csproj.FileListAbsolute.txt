@@ -1,0 +1,11 @@
+D:\New\code\c_sharp_learning\lesson6forSS\obj\Debug\netcoreapp2.2\lesson6forSS.csprojAssemblyReference.cache
+D:\New\code\c_sharp_learning\lesson6forSS\obj\Debug\netcoreapp2.2\lesson6forSS.csproj.CoreCompileInputs.cache
+D:\New\code\c_sharp_learning\lesson6forSS\obj\Debug\netcoreapp2.2\lesson6forSS.AssemblyInfoInputs.cache
+D:\New\code\c_sharp_learning\lesson6forSS\obj\Debug\netcoreapp2.2\lesson6forSS.AssemblyInfo.cs
+D:\New\code\c_sharp_learning\lesson6forSS\bin\Debug\netcoreapp2.2\lesson6forSS.deps.json
+D:\New\code\c_sharp_learning\lesson6forSS\bin\Debug\netcoreapp2.2\lesson6forSS.runtimeconfig.json
+D:\New\code\c_sharp_learning\lesson6forSS\bin\Debug\netcoreapp2.2\lesson6forSS.runtimeconfig.dev.json
+D:\New\code\c_sharp_learning\lesson6forSS\bin\Debug\netcoreapp2.2\lesson6forSS.dll
+D:\New\code\c_sharp_learning\lesson6forSS\bin\Debug\netcoreapp2.2\lesson6forSS.pdb
+D:\New\code\c_sharp_learning\lesson6forSS\obj\Debug\netcoreapp2.2\lesson6forSS.dll
+D:\New\code\c_sharp_learning\lesson6forSS\obj\Debug\netcoreapp2.2\lesson6forSS.pdb
