@@ -1,0 +1,11 @@
+D:\New\code\c_sharp_learning\lesson7Struct\bin\Debug\netcoreapp2.2\lesson7Struct.deps.json
+D:\New\code\c_sharp_learning\lesson7Struct\bin\Debug\netcoreapp2.2\lesson7Struct.runtimeconfig.json
+D:\New\code\c_sharp_learning\lesson7Struct\bin\Debug\netcoreapp2.2\lesson7Struct.runtimeconfig.dev.json
+D:\New\code\c_sharp_learning\lesson7Struct\bin\Debug\netcoreapp2.2\lesson7Struct.dll
+D:\New\code\c_sharp_learning\lesson7Struct\bin\Debug\netcoreapp2.2\lesson7Struct.pdb
+D:\New\code\c_sharp_learning\lesson7Struct\obj\Debug\netcoreapp2.2\lesson7Struct.csprojAssemblyReference.cache
+D:\New\code\c_sharp_learning\lesson7Struct\obj\Debug\netcoreapp2.2\lesson7Struct.csproj.CoreCompileInputs.cache
+D:\New\code\c_sharp_learning\lesson7Struct\obj\Debug\netcoreapp2.2\lesson7Struct.AssemblyInfoInputs.cache
+D:\New\code\c_sharp_learning\lesson7Struct\obj\Debug\netcoreapp2.2\lesson7Struct.AssemblyInfo.cs
+D:\New\code\c_sharp_learning\lesson7Struct\obj\Debug\netcoreapp2.2\lesson7Struct.dll
+D:\New\code\c_sharp_learning\lesson7Struct\obj\Debug\netcoreapp2.2\lesson7Struct.pdb

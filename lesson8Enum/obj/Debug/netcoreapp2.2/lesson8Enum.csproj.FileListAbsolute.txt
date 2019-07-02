@@ -1,0 +1,11 @@
+D:\New\code\c_sharp_learning\lesson8Enum\bin\Debug\netcoreapp2.2\lesson8Enum.deps.json
+D:\New\code\c_sharp_learning\lesson8Enum\bin\Debug\netcoreapp2.2\lesson8Enum.runtimeconfig.json
+D:\New\code\c_sharp_learning\lesson8Enum\bin\Debug\netcoreapp2.2\lesson8Enum.runtimeconfig.dev.json
+D:\New\code\c_sharp_learning\lesson8Enum\bin\Debug\netcoreapp2.2\lesson8Enum.dll
+D:\New\code\c_sharp_learning\lesson8Enum\bin\Debug\netcoreapp2.2\lesson8Enum.pdb
+D:\New\code\c_sharp_learning\lesson8Enum\obj\Debug\netcoreapp2.2\lesson8Enum.csprojAssemblyReference.cache
+D:\New\code\c_sharp_learning\lesson8Enum\obj\Debug\netcoreapp2.2\lesson8Enum.csproj.CoreCompileInputs.cache
+D:\New\code\c_sharp_learning\lesson8Enum\obj\Debug\netcoreapp2.2\lesson8Enum.AssemblyInfoInputs.cache
+D:\New\code\c_sharp_learning\lesson8Enum\obj\Debug\netcoreapp2.2\lesson8Enum.AssemblyInfo.cs
+D:\New\code\c_sharp_learning\lesson8Enum\obj\Debug\netcoreapp2.2\lesson8Enum.dll
+D:\New\code\c_sharp_learning\lesson8Enum\obj\Debug\netcoreapp2.2\lesson8Enum.pdb

@@ -1,0 +1,11 @@
+D:\New\code\c_sharp_learning\lesson9Regex\obj\Debug\netcoreapp2.2\lesson9Regex.csprojAssemblyReference.cache
+D:\New\code\c_sharp_learning\lesson9Regex\obj\Debug\netcoreapp2.2\lesson9Regex.csproj.CoreCompileInputs.cache
+D:\New\code\c_sharp_learning\lesson9Regex\obj\Debug\netcoreapp2.2\lesson9Regex.AssemblyInfoInputs.cache
+D:\New\code\c_sharp_learning\lesson9Regex\obj\Debug\netcoreapp2.2\lesson9Regex.AssemblyInfo.cs
+D:\New\code\c_sharp_learning\lesson9Regex\bin\Debug\netcoreapp2.2\lesson9Regex.deps.json
+D:\New\code\c_sharp_learning\lesson9Regex\bin\Debug\netcoreapp2.2\lesson9Regex.runtimeconfig.json
+D:\New\code\c_sharp_learning\lesson9Regex\bin\Debug\netcoreapp2.2\lesson9Regex.runtimeconfig.dev.json
+D:\New\code\c_sharp_learning\lesson9Regex\bin\Debug\netcoreapp2.2\lesson9Regex.dll
+D:\New\code\c_sharp_learning\lesson9Regex\bin\Debug\netcoreapp2.2\lesson9Regex.pdb
+D:\New\code\c_sharp_learning\lesson9Regex\obj\Debug\netcoreapp2.2\lesson9Regex.dll
+D:\New\code\c_sharp_learning\lesson9Regex\obj\Debug\netcoreapp2.2\lesson9Regex.pdb
