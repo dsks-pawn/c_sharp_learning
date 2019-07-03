@@ -1,0 +1,11 @@
+D:\New\code\c_sharp_learning\lesson13Inheritance\obj\Debug\netcoreapp2.2\lesson13inheritance.csprojAssemblyReference.cache
+D:\New\code\c_sharp_learning\lesson13Inheritance\obj\Debug\netcoreapp2.2\lesson13inheritance.csproj.CoreCompileInputs.cache
+D:\New\code\c_sharp_learning\lesson13Inheritance\obj\Debug\netcoreapp2.2\lesson13inheritance.AssemblyInfoInputs.cache
+D:\New\code\c_sharp_learning\lesson13Inheritance\obj\Debug\netcoreapp2.2\lesson13inheritance.AssemblyInfo.cs
+D:\New\code\c_sharp_learning\lesson13Inheritance\bin\Debug\netcoreapp2.2\lesson13inheritance.deps.json
+D:\New\code\c_sharp_learning\lesson13Inheritance\bin\Debug\netcoreapp2.2\lesson13inheritance.runtimeconfig.json
+D:\New\code\c_sharp_learning\lesson13Inheritance\bin\Debug\netcoreapp2.2\lesson13inheritance.runtimeconfig.dev.json
+D:\New\code\c_sharp_learning\lesson13Inheritance\bin\Debug\netcoreapp2.2\lesson13inheritance.dll
+D:\New\code\c_sharp_learning\lesson13Inheritance\bin\Debug\netcoreapp2.2\lesson13inheritance.pdb
+D:\New\code\c_sharp_learning\lesson13Inheritance\obj\Debug\netcoreapp2.2\lesson13inheritance.dll
+D:\New\code\c_sharp_learning\lesson13Inheritance\obj\Debug\netcoreapp2.2\lesson13inheritance.pdb

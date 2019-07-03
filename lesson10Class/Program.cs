@@ -49,7 +49,7 @@ namespace lesson10Class
             Dog.Info();
             Cat.Info();
 
-            Test Test = new Test();
+            Test Test = new Test(3, 3);
             Test.Info();
         }
     }
