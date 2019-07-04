@@ -1,0 +1,11 @@
+D:\New\code\c_sharp_learning\lesson17HashTable\bin\Debug\netcoreapp2.2\lesson17HashTable.deps.json
+D:\New\code\c_sharp_learning\lesson17HashTable\bin\Debug\netcoreapp2.2\lesson17HashTable.runtimeconfig.json
+D:\New\code\c_sharp_learning\lesson17HashTable\bin\Debug\netcoreapp2.2\lesson17HashTable.runtimeconfig.dev.json
+D:\New\code\c_sharp_learning\lesson17HashTable\bin\Debug\netcoreapp2.2\lesson17HashTable.dll
+D:\New\code\c_sharp_learning\lesson17HashTable\bin\Debug\netcoreapp2.2\lesson17HashTable.pdb
+D:\New\code\c_sharp_learning\lesson17HashTable\obj\Debug\netcoreapp2.2\lesson17HashTable.csprojAssemblyReference.cache
+D:\New\code\c_sharp_learning\lesson17HashTable\obj\Debug\netcoreapp2.2\lesson17HashTable.csproj.CoreCompileInputs.cache
+D:\New\code\c_sharp_learning\lesson17HashTable\obj\Debug\netcoreapp2.2\lesson17HashTable.AssemblyInfoInputs.cache
+D:\New\code\c_sharp_learning\lesson17HashTable\obj\Debug\netcoreapp2.2\lesson17HashTable.AssemblyInfo.cs
+D:\New\code\c_sharp_learning\lesson17HashTable\obj\Debug\netcoreapp2.2\lesson17HashTable.dll
+D:\New\code\c_sharp_learning\lesson17HashTable\obj\Debug\netcoreapp2.2\lesson17HashTable.pdb

@@ -1,0 +1,11 @@
+D:\New\code\c_sharp_learning\lesson15Interface\obj\Debug\netcoreapp2.2\lesson15Interface.csprojAssemblyReference.cache
+D:\New\code\c_sharp_learning\lesson15Interface\obj\Debug\netcoreapp2.2\lesson15Interface.csproj.CoreCompileInputs.cache
+D:\New\code\c_sharp_learning\lesson15Interface\obj\Debug\netcoreapp2.2\lesson15Interface.AssemblyInfoInputs.cache
+D:\New\code\c_sharp_learning\lesson15Interface\obj\Debug\netcoreapp2.2\lesson15Interface.AssemblyInfo.cs
+D:\New\code\c_sharp_learning\lesson15Interface\bin\Debug\netcoreapp2.2\lesson15Interface.deps.json
+D:\New\code\c_sharp_learning\lesson15Interface\bin\Debug\netcoreapp2.2\lesson15Interface.runtimeconfig.json
+D:\New\code\c_sharp_learning\lesson15Interface\bin\Debug\netcoreapp2.2\lesson15Interface.runtimeconfig.dev.json
+D:\New\code\c_sharp_learning\lesson15Interface\bin\Debug\netcoreapp2.2\lesson15Interface.dll
+D:\New\code\c_sharp_learning\lesson15Interface\bin\Debug\netcoreapp2.2\lesson15Interface.pdb
+D:\New\code\c_sharp_learning\lesson15Interface\obj\Debug\netcoreapp2.2\lesson15Interface.dll
+D:\New\code\c_sharp_learning\lesson15Interface\obj\Debug\netcoreapp2.2\lesson15Interface.pdb

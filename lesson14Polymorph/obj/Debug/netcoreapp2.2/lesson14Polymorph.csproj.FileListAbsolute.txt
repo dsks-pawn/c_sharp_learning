@@ -1,0 +1,11 @@
+D:\New\code\c_sharp_learning\lesson14Polymorph\bin\Debug\netcoreapp2.2\lesson14Polymorph.deps.json
+D:\New\code\c_sharp_learning\lesson14Polymorph\bin\Debug\netcoreapp2.2\lesson14Polymorph.runtimeconfig.json
+D:\New\code\c_sharp_learning\lesson14Polymorph\bin\Debug\netcoreapp2.2\lesson14Polymorph.runtimeconfig.dev.json
+D:\New\code\c_sharp_learning\lesson14Polymorph\bin\Debug\netcoreapp2.2\lesson14Polymorph.dll
+D:\New\code\c_sharp_learning\lesson14Polymorph\bin\Debug\netcoreapp2.2\lesson14Polymorph.pdb
+D:\New\code\c_sharp_learning\lesson14Polymorph\obj\Debug\netcoreapp2.2\lesson14Polymorph.csprojAssemblyReference.cache
+D:\New\code\c_sharp_learning\lesson14Polymorph\obj\Debug\netcoreapp2.2\lesson14Polymorph.csproj.CoreCompileInputs.cache
+D:\New\code\c_sharp_learning\lesson14Polymorph\obj\Debug\netcoreapp2.2\lesson14Polymorph.AssemblyInfoInputs.cache
+D:\New\code\c_sharp_learning\lesson14Polymorph\obj\Debug\netcoreapp2.2\lesson14Polymorph.AssemblyInfo.cs
+D:\New\code\c_sharp_learning\lesson14Polymorph\obj\Debug\netcoreapp2.2\lesson14Polymorph.dll
+D:\New\code\c_sharp_learning\lesson14Polymorph\obj\Debug\netcoreapp2.2\lesson14Polymorph.pdb
