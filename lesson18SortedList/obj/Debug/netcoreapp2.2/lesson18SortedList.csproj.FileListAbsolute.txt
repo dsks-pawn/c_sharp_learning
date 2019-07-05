@@ -1,0 +1,11 @@
+D:\New\code\c_sharp_learning\lesson18SortedList\obj\Debug\netcoreapp2.2\lesson18SortedList.csprojAssemblyReference.cache
+D:\New\code\c_sharp_learning\lesson18SortedList\obj\Debug\netcoreapp2.2\lesson18SortedList.csproj.CoreCompileInputs.cache
+D:\New\code\c_sharp_learning\lesson18SortedList\obj\Debug\netcoreapp2.2\lesson18SortedList.AssemblyInfoInputs.cache
+D:\New\code\c_sharp_learning\lesson18SortedList\obj\Debug\netcoreapp2.2\lesson18SortedList.AssemblyInfo.cs
+D:\New\code\c_sharp_learning\lesson18SortedList\bin\Debug\netcoreapp2.2\lesson18SortedList.deps.json
+D:\New\code\c_sharp_learning\lesson18SortedList\bin\Debug\netcoreapp2.2\lesson18SortedList.runtimeconfig.json
+D:\New\code\c_sharp_learning\lesson18SortedList\bin\Debug\netcoreapp2.2\lesson18SortedList.runtimeconfig.dev.json
+D:\New\code\c_sharp_learning\lesson18SortedList\bin\Debug\netcoreapp2.2\lesson18SortedList.dll
+D:\New\code\c_sharp_learning\lesson18SortedList\bin\Debug\netcoreapp2.2\lesson18SortedList.pdb
+D:\New\code\c_sharp_learning\lesson18SortedList\obj\Debug\netcoreapp2.2\lesson18SortedList.dll
+D:\New\code\c_sharp_learning\lesson18SortedList\obj\Debug\netcoreapp2.2\lesson18SortedList.pdb

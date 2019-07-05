@@ -12,7 +12,6 @@ namespace lesson16ArrayList
             ArrayList myArr3 = new ArrayList(myArr2);
             myArr2.Add("123456789");
 
-
             ArrayList arrPersons = new ArrayList();
             arrPersons.Add(new Person("Nguyen Van A", 18));
             arrPersons.Add(new Person("Nguyen Van B", 25));

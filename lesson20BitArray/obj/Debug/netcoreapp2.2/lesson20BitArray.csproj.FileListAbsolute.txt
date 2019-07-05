@@ -1,0 +1,11 @@
+D:\New\code\c_sharp_learning\lesson20BitArray\bin\Debug\netcoreapp2.2\lesson20BitArray.deps.json
+D:\New\code\c_sharp_learning\lesson20BitArray\bin\Debug\netcoreapp2.2\lesson20BitArray.runtimeconfig.json
+D:\New\code\c_sharp_learning\lesson20BitArray\bin\Debug\netcoreapp2.2\lesson20BitArray.runtimeconfig.dev.json
+D:\New\code\c_sharp_learning\lesson20BitArray\bin\Debug\netcoreapp2.2\lesson20BitArray.dll
+D:\New\code\c_sharp_learning\lesson20BitArray\bin\Debug\netcoreapp2.2\lesson20BitArray.pdb
+D:\New\code\c_sharp_learning\lesson20BitArray\obj\Debug\netcoreapp2.2\lesson20BitArray.csprojAssemblyReference.cache
+D:\New\code\c_sharp_learning\lesson20BitArray\obj\Debug\netcoreapp2.2\lesson20BitArray.csproj.CoreCompileInputs.cache
+D:\New\code\c_sharp_learning\lesson20BitArray\obj\Debug\netcoreapp2.2\lesson20BitArray.AssemblyInfoInputs.cache
+D:\New\code\c_sharp_learning\lesson20BitArray\obj\Debug\netcoreapp2.2\lesson20BitArray.AssemblyInfo.cs
+D:\New\code\c_sharp_learning\lesson20BitArray\obj\Debug\netcoreapp2.2\lesson20BitArray.dll
+D:\New\code\c_sharp_learning\lesson20BitArray\obj\Debug\netcoreapp2.2\lesson20BitArray.pdb
